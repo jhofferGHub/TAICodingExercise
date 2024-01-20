@@ -37,7 +37,8 @@ Please post the exercise to a personal GitHub repository for TAI to review.
 Used CsvHelper (https://joshclose.github.io/CsvHelper/) for flexibility and ease of use in converting csv lines to objects.
 
 3) App Usage Instructions/Notes
+-Source Code can be found at https://github.com/jhofferGHub/TAICodingExercise.
 -User will need to provide a local complete path to Input CSV file containing Insureds and Policy Info after starting the Console App.  
 -User will also need to provide a local directory to save the output results to.
--It is assumed that there will be at least some value (even if an empty string) for every field in the Input CSV file. Did not have time to implement malformed records.
+-It is assumed that there will be at least some value (or empty string) for every field in the Input CSV file. 
 -Required field validations will be performed.  If there are any lines in the Input CSV that contain validation errors, those lines will be skipped. 
