@@ -1,9 +1,4 @@
-﻿//using CsvHelper;
-//using System.Globalization;
-//using System.Net;
-//using System.Net.Http.Headers;
-//using System.Text;
-using TAICodingExercise;
+﻿using TAICodingExercise;
 using TAICodingExercise.DTO;
 
 //Define threshold
